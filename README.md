@@ -1,4 +1,4 @@
-jub-go-trial
-============
+JubClub
+=======
 
-jubgotrial
+This project is for Jub-Go.com
